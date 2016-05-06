@@ -1,11 +1,9 @@
-== README
-This README would normally document whatever steps are necessary to get the
-application up and running.
+== FIRST README
 
-anotherRailsApp
+AnotherRailsApp
 ================
 
-powerful software
+Powerful software
 -----------------
 
 ### Welcome to the repository
@@ -34,5 +32,3 @@ this is what ruby code would look like `puts 'hello world'`
 
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
